@@ -8,14 +8,11 @@ http://127.0.0.1:8000/swagger/
 
 main分支使用目前goframe最新版V2.2开发实现
 
-如果你需要1.1X版本的项目，可以查看我另外的一个项目地址：
-https://github.com/wangzhongyang007/goframe-shop
-
 # 运行流程
 
 ## 1. 下载项目
 
-git clone https://github.com/wangzhongyang007/goframe-shop-v2
+git clone https://github.com/CUMTB-wangru/goframe-shop-v2
 
 ## 2. 配置数据库
 
