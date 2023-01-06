@@ -72,3 +72,10 @@ setup.sh
 ```
 gf run main.go
 ```
+
+```
+[1]官方文档: https://GoFrame.org/pages/viewpage.action?pageId=1115790
+[2]工程目录设计: https://GoFrame.org/pages/viewpage.action?pageId=30740166
+[3]接口维护-gen service: https://GoFrame.org/pages/viewpage.action?pageId=49770772
+[4]Go开源电商项目教程-教程大纲+开源地址: https://b23.tv/hdOpOTp
+```
